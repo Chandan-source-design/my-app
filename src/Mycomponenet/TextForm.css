@@ -1,0 +1,42 @@
+/* TextForm.css */
+
+.form-control {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .button-group {
+    margin-top: 10px;
+  }
+  
+  .btn {
+    margin-right: 10px;
+  }
+  
+  .summary {
+    margin-top: 20px;
+  }
+  
+  .summary-info {
+    font-size: 18px;
+    margin-top: 10px;
+  }
+  .f-family{
+font-family:serif
+  }
+  .text-btn{
+    font-size: 20px;
+    font-weight: 600;
+    font-family: sans-serif;
+  }
+  .summary h1{
+    font-family: math;
+  }
+  span{
+    padding-right: 5px;
+  }
+  /* Additional styling as needed */
+  
